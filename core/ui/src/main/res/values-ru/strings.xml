@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toggle_password_visibility">Переключить видимость пароля</string>
+    <string name="page_not_load">Страница не загрузилась</string>
+    <string name="check_connection_suggest">Проверьте подключение и попробуйте позже</string>
+    <string name="retry">Повторить</string>
+    <string name="back">Назад</string>
+    <string name="reply">Ответить</string>
+    <string name="comment">Комментарий</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="text_length_counter">%1$s / %2$s</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+</resources>
+

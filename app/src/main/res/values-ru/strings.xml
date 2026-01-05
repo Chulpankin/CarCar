@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CarCar</string>
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="home">Главная</string>
+    <string name="favorite">Избранное</string>
+    <string name="upload_post">Загрузить пост</string>
+    <string name="add_post">Добавить пост</string>
+    <string name="car_search">Поиск</string>
+    <string name="favorites">Избранное</string>
+    <string name="profile">Профиль</string>
+</resources>
+

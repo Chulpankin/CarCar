@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml:2:13-83
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml:2:13-83
+	package
+		INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml
+	xmlns:android
+		ADDED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml:2:23-81
+uses-sdk
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml reason: use-sdk injection requested
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml
+	android:minSdkVersion
+		INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/carsearch/impl/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9459310599835491303.xml

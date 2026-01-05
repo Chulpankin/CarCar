@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="body_with_bullet">• %s</string>
+    <string name="car_name">%s %s</string>
+    <string name="drive_with_icon">🔧 %s</string>
+    <string name="empty_favorites_message">Вы еще не добавили ни одного автомобиля в избранное. Начните поиск и добавьте свои любимые автомобили!</string>
+    <string name="favorite">Избранное</string>
+    <string name="favorites">Избранное</string>
+    <string name="hp_with_value">⚡ %s л.с.</string>
+    <string name="make_country">Страна: %s</string>
+    <string name="make_id">ID производителя: %s</string>
+    <string name="model_id">ID модели: %s</string>
+    <string name="no_favorites">Нет избранных</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+    <string name="year">Год: %s</string>
+</resources>

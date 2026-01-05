@@ -1,0 +1,25 @@
+package com.example.signin.impl.di
+
+import com.example.common.di.FeatureScope
+import com.example.ui.viewmodel.ViewModelModule
+import com.example.ui.viewmodel.ViewModelProviderFactory
+import dagger.Component
+
+@FeatureScope
+@Component(
+    dependencies = [SignInDeps::class],
+    modules = [
+        ViewModelModule::class,
+        SignInModule::class,
+    ]
+)
+interface SignInComponent: SignInDeps {
+
+    val viewModelFactory: ViewModelProviderFactory
+
+    @Component.Factory
+    interface Factory {
+
+        fun create(signInDeps: SignInDeps): SignInComponent
+    }
+}

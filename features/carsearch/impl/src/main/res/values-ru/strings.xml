@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="car_search_title">Поиск автомобиля</string>
+    <string name="car_search_description">Выберите год, марку, модель и комплектацию автомобиля, который вы ищете</string>
+    <string name="year">Год</string>
+    <string name="year_label">Год</string>
+    <string name="year_hint">Нажмите, чтобы выбрать год</string>
+    <string name="year_hint_select">Выберите год</string>
+    <string name="year_hint_no_data">Годы не найдены</string>
+    <string name="make">Марка</string>
+    <string name="make_hint">Нажмите, чтобы выбрать марку</string>
+    <string name="make_hint_select">Выберите марку</string>
+    <string name="make_hint_no_data">Марки не найдены</string>
+    <string name="model">Модель</string>
+    <string name="model_hint">Нажмите, чтобы выбрать модель</string>
+    <string name="model_hint_select">Выберите модель</string>
+    <string name="model_hint_no_data">Модели не найдены</string>
+    <string name="trim">Комплектация</string>
+    <string name="trim_hint">Нажмите, чтобы выбрать комплектацию</string>
+    <string name="trim_hint_select">Выберите комплектацию</string>
+    <string name="trim_hint_no_data">Комплектации не найдены</string>
+    <string name="search">Найти</string>
+    <string name="no_data_year">Данные не найдены. Пожалуйста, выберите другой год.</string>
+    <string name="no_data_make">Данные не найдены. Пожалуйста, выберите другую марку.</string>
+    <string name="no_data_model">Данные не найдены. Пожалуйста, выберите другую модель.</string>
+    <string name="no_data_trim">Данные не найдены. Пожалуйста, выберите другую комплектацию.</string>
+</resources>
+

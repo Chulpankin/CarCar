@@ -1,0 +1,25 @@
+com.example.carsearch.impl
+string car_search_description
+string car_search_title
+string make
+string make_hint
+string make_hint_no_data
+string make_hint_select
+string model
+string model_hint
+string model_hint_no_data
+string model_hint_select
+string no_data_make
+string no_data_model
+string no_data_trim
+string no_data_year
+string search
+string trim
+string trim_hint
+string trim_hint_no_data
+string trim_hint_select
+string year
+string year_hint
+string year_hint_no_data
+string year_hint_select
+string year_label

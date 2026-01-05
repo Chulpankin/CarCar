@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.favorites.impl.domain.usecase.IsFavoriteUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-01-05T14:15:50" hostname="MacBook-Pro-Timur.local" time="0.006">
+  <properties/>
+  <testcase name="invoke returns false when car is not favorite" classname="com.example.favorites.impl.domain.usecase.IsFavoriteUseCaseTest" time="0.003"/>
+  <testcase name="invoke returns true when car is favorite" classname="com.example.favorites.impl.domain.usecase.IsFavoriteUseCaseTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

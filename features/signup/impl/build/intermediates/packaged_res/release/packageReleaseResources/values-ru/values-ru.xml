@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="already_have_an_account">Уже есть аккаунт? </string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="confirm_password_error">Пароли не совпадают</string>
+    <string name="create_account">Создайте свой аккаунт!</string>
+    <string name="email">Email</string>
+    <string name="email_error">Введите корректный email адрес</string>
+    <string name="password">Пароль</string>
+    <string name="password_error">Пароль должен содержать минимум 6 символов</string>
+    <string name="passwords_do_not_match">Пароли не совпадают</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="signup_desc">Зарегистрируйтесь, чтобы начать искать и бронировать идеальный автомобиль.</string>
+    <string name="terms_of_use_text">Продолжая, вы соглашаетесь с Условиями использования. Прочитайте нашу Политику конфиденциальности.</string>
+</resources>

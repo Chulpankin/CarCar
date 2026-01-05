@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_invalid_request">Неверный запрос. Пожалуйста, попробуйте снова.</string>
+    <string name="error_authentication_required">Требуется аутентификация. Пожалуйста, войдите снова.</string>
+    <string name="error_resource_not_found">Запрашиваемый ресурс не найден.</string>
+    <string name="error_server_error">Ошибка сервера. Пожалуйста, попробуйте позже.</string>
+    <string name="error_network_error">Ошибка сети. Проверьте подключение и попробуйте снова.</string>
+    <string name="error_connection_timeout">Таймаут подключения. Проверьте подключение и попробуйте снова.</string>
+    <string name="error_connection_failed">Не удалось подключиться к серверу. Проверьте подключение к интернету.</string>
+    <string name="error_host_unreachable">Сервер недоступен. Проверьте подключение к интернету.</string>
+    <string name="error_unexpected">Произошла неожиданная ошибка. Пожалуйста, попробуйте снова.</string>
+    <string name="error_service_error">Произошла ошибка сервиса. Пожалуйста, попробуйте снова.</string>
+    <string name="error_auth_invalid_credentials">Неверные учетные данные. Проверьте email и пароль.</string>
+    <string name="error_auth_user_disabled">Ваш аккаунт отключен. Обратитесь в службу поддержки.</string>
+    <string name="error_auth_unknown">Произошла неизвестная ошибка аутентификации.</string>
+    <string name="error_firestore_permission_denied">У вас нет доступа к этому ресурсу.</string>
+    <string name="error_firestore_unavailable">Сервис Firestore временно недоступен.</string>
+    <string name="error_firestore_unknown">Произошла неизвестная ошибка Firestore.</string>
+</resources>
+

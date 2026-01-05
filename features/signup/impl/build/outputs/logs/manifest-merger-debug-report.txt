@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml:1:39-110
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml:1:39-110
+	package
+		INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml:1:49-107
+uses-sdk
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml
+INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fyvak/AndroidStudioProjects/CarCar/features/signup/impl/src/main/AndroidManifest.xml

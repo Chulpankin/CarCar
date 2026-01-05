@@ -1,0 +1,14 @@
+com.example.favorites.impl
+string body_with_bullet
+string car_name
+string drive_with_icon
+string empty_favorites_message
+string favorite
+string favorites
+string hp_with_value
+string make_country
+string make_id
+string model_id
+string no_favorites
+string remove_from_favorites
+string year

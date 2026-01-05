@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/common" />
+            <option value="$PROJECT_DIR$/core/data" />
+            <option value="$PROJECT_DIR$/core/data/api" />
+            <option value="$PROJECT_DIR$/core/data/impl" />
+            <option value="$PROJECT_DIR$/core/data/impl/firebase" />
+            <option value="$PROJECT_DIR$/core/data/impl/network" />
+            <option value="$PROJECT_DIR$/core/ui" />
+            <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/carlist" />
+            <option value="$PROJECT_DIR$/features/carlist/api" />
+            <option value="$PROJECT_DIR$/features/carlist/impl" />
+            <option value="$PROJECT_DIR$/features/carsearch" />
+            <option value="$PROJECT_DIR$/features/carsearch/api" />
+            <option value="$PROJECT_DIR$/features/carsearch/impl" />
+            <option value="$PROJECT_DIR$/features/favorites" />
+            <option value="$PROJECT_DIR$/features/favorites/api" />
+            <option value="$PROJECT_DIR$/features/favorites/impl" />
+            <option value="$PROJECT_DIR$/features/signin" />
+            <option value="$PROJECT_DIR$/features/signin/api" />
+            <option value="$PROJECT_DIR$/features/signin/impl" />
+            <option value="$PROJECT_DIR$/features/signup" />
+            <option value="$PROJECT_DIR$/features/signup/api" />
+            <option value="$PROJECT_DIR$/features/signup/impl" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

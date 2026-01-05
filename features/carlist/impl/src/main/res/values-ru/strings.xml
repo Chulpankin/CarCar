@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_category">Без категории</string>
+    <string name="hello_blank_fragment">Пустой фрагмент</string>
+    <string name="home">Главная</string>
+    <string name="carlist">Список машин</string>
+    <string name="search">Поиск</string>
+    <string name="no_cars_found">Машины не найдены</string>
+    <string name="empty_car_list_message">Список машин пуст. Попробуйте найти машины.</string>
+    <string name="year">Год: %s</string>
+    <string name="year_label">Год</string>
+    <string name="hp_with_value">⚡ %s л.с.</string>
+    <string name="make_id">ID производителя: %s</string>
+    <string name="model_id">ID модели: %s</string>
+    <string name="make_country">Страна: %s</string>
+    <string name="car_name">%s %s</string>
+    <string name="body_with_bullet">• %s</string>
+    <string name="drive_with_icon">🔧 %s</string>
+    <string name="add_to_favorites">Добавить в избранное</string>
+    <string name="remove_from_favorites">Удалить из избранного</string>
+</resources>
+

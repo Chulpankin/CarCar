@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_back">С возвращением!</string>
+    <string name="signin_desc">Войдите в свой аккаунт и начните искать и бронировать автомобили.</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="log_in">Войти</string>
+    <string name="arrow">Стрелка</string>
+    <string name="terms_of_use_text">Продолжая, вы соглашаетесь с Условиями использования. Прочитайте нашу Политику конфиденциальности.</string>
+    <string name="toggle_password_visibility">Переключить видимость пароля</string>
+    <string name="don_t_have_an_account">Нет аккаунта? </string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="sign_in">Войти</string>
+    <string name="email_error">Введите корректный email адрес</string>
+    <string name="password_error">Пароль должен содержать минимум 6 символов</string>
+</resources>
+

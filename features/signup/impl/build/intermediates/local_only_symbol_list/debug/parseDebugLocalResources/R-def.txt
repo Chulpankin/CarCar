@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+string already_have_an_account
+string confirm_password
+string confirm_password_error
+string create_account
+string email
+string email_error
+string password
+string password_error
+string passwords_do_not_match
+string sign_in
+string sign_up
+string signup_desc
+string terms_of_use_text
