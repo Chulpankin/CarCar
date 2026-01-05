@@ -51,6 +51,8 @@ Android приложение для поиска и управления авт�
 - Unit Tests (все юнит-тесты)
 - Build & Firebase App Distribution
 
+> **Примечание:** Это тестовый PR для проверки CI/CD pipeline.
+
 ## Настройка Firebase
 
 ### Получение SHA-1 и SHA-256 fingerprint
