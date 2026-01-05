@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812359462336",
+    "project_id": "carcar-44eb6",
+    "storage_bucket": "carcar-44eb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812359462336:android:84fd658cee62b8ffb4ec25",
+        "android_client_info": {
+          "package_name": "com.example.carcar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp1YlZgtHjkiS0DKZD9d2k1Zwehy8zQQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
